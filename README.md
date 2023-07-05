@@ -4,11 +4,10 @@ Pumxtrap CSS is a revolutionary CSS framework that brings the power of Ayro UI C
 
 ## Features
 
-- Extensive collection of visually striking and responsive components
-- Easy integration into web projects
+- Save valuable development time with Pumxtrap CSS. Using utilities class like rounded-full, btn, primary-btn
+- Create visually captivating websites with Ayro's sleek and modern design language.
 - Built on the powerful foundation of Ayro UI Component Library
-- Seamlessly blend with your existing codebase
-- Provides an impressive user experience
+- Effortlessly incorporate Pumxtrap CSS into your existing workflow – no need to start from scratch.
 
 ## About PARIS
 
