@@ -26,5 +26,5 @@ We invite creators and researchers from various domains to join PARIS and be a p
 - Website: [PARIS](https://paristheassociatio.wixsite.com/paris)
 - Email: [paristheassociations1@gmail.com](paristheassociations1@gmail.com)
 - Follow us on [Facebook](https://m.facebook.com/groups/2036010479932070/?ref=sharehttps://m.facebook.com/groups/2036010479932070/?ref%3Dshare&exp=8ce3&mibextid=S66gvF)
-- Connect with us on [LinkedIn](https://www.instagram.com/paráitheassociations)
+- Connect with us on [Instagram](https://www.instagram.com/paráitheassociations)
 - Subscribe to our [YouTube](https://youtube.com/@paristheassociation?feature=sharea) channel for gaming videos, research tutorials, and more.
